@@ -1,5 +1,7 @@
 
 Counter Application
+
+
 This is a simple counter application built using HTML, CSS, and JavaScript. It has three basic functionalities:
 
 Increase: Increments the count by 1.
