@@ -1,5 +1,4 @@
-# CountNumber
-A simple counter application with three functionalities: increase, decrease, and reset. Built using HTML, CSS, and JavaScript, this app updates the counter in real-time with button clicks.
+
 Counter Application
 This is a simple counter application built using HTML, CSS, and JavaScript. It has three basic functionalities:
 
